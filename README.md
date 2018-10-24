@@ -1,5 +1,5 @@
 # JavaPractice
-* SearchQqNumber.java<br>--------
+* SearchQqNumber.java<br>
 题目大意：某同学的ＱＱ密码忘了，但是他记得是个５位数，６７ＹＸ８，而且能够被７８和６７整除，设计算法求出Ｙ和Ｘ。
 * OrganizateThreeNumbers.java<br>
 题目大意：用１，２，３，４可以组成多少个不同的三位数
@@ -22,4 +22,4 @@
 对于递归法求Fibonacci数列,要知道：<br>
 递归计算的公式　f(n) = f(n - 1) + f(n - 2)<br>
 递归结束的条件n = 1 或n = 2
-
+##dvdfgfd
